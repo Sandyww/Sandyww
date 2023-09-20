@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandyww
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning python, blender, spine and unity.
+- 🌱 I’m currently learning python, blender, and unity.
 - 💞️ I’m looking to collaborate on CS students
 - 📫 How to reach me 
 
